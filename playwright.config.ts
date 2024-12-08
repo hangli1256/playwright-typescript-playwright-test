@@ -14,7 +14,7 @@ const reportConfig: OrtoniReportConfig = {
   title: "Playwright Framework with Typescript",
   showProject: true,
   filename: "OrtoniHtmlReport",
-  authorName: "Akshay Pai",
+  authorName: "Lee",
   preferredTheme: "dark",
   folderPath: "html-report",
   projectName: "Playwright Framework with Typescript",
